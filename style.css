@@ -12,6 +12,16 @@
     position: relative;
     overflow: hidden;
 }
+.hero-books {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/backgroundmoody2.jpg);
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+
+
+}
 
 .logo {
     width: 100px;
@@ -81,4 +91,15 @@ h1 {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+}
+
+.useful-links {
+
+    width: 50px;
+    text-align: center;
+    position: absolute;
+    top: 95%;
+    transform: translateY(-80%);
+
+
 }
